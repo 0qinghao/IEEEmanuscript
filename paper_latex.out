@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{ANALYSIS OF INTRA PREDICTION AND BLOCK PARTITIONING IN HEVC AND RELATED WORK}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{INTRA PREDICTION IN HEVC}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{QUADTREE-BASED BLOCK PARTITIONING IN HEVC}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{PROPOSED LOSSLESS INTRA-PREDICTION}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{L-SHAPE-BASED ITERATIVE PREDICTION \(L-IP\)}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{L-SHAPE-BASED BLOCK PARTITIONING \(L-BP\)}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.3}{L-SHAPE-BASED BLOCK PARTITIONING AND ITERATIVE PREDICTION \(L-BPIP\)}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{IMPLEMENTATION AND OPTIMIZATION}{}% 9
+\BOOKMARK [1][-]{section.5}{EXPERIMENTAL RESULTS}{}% 10
+\BOOKMARK [2][-]{subsection.5.1}{L-shape-based Iterative Prediction \(L-IP\)}{section.5}% 11
+\BOOKMARK [2][-]{subsection.5.2}{L-shape-based Block Partitioning \(L-BP\)}{section.5}% 12
+\BOOKMARK [2][-]{subsection.5.3}{L-shape-based Block Partitioning and Iterative Prediction \(L-BPIP\)}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.4}{Comparison to SAP-E}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.5}{Further analysis}{section.5}% 15
+\BOOKMARK [1][-]{section.6}{conclusion}{}% 16
+\BOOKMARK [1][-]{section*.1}{References}{}% 17
