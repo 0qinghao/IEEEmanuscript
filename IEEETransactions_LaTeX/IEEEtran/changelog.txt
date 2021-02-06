@@ -5,7 +5,6 @@
  by Michael Shell (MDS)
  http://www.michaelshell.org/
 
-
  2015/08/26 V1.8b (MDS) changes:
 
  1) Added new comsoc mode for the IEEE Communications Society.
@@ -29,7 +28,6 @@
 
  6) Added the \IEEEnoauxwrite command.
     Thanks to Sudarshan Mukherjee for suggesting this feature.
-
 
  2014/09/17 V1.8a (MDS) changes:
 
@@ -55,7 +53,6 @@
     Thanks to Dirk Beyer for suggesting this change.
 
  7) Added lines per column console message.
-
 
 *******
  2012/12/27 V1.8 (MDS) changes:: 
@@ -111,8 +108,7 @@
     commands and the legacy biography and biographynophoto environments.
     IEEEtran no longer defines or references \labelindent so as to
     avoid namespace problems with list packages that define it.
-    Thanks to Sven Köhler for reporting the problem with enumitem.sty.
-
+    Thanks to Sven Köhler for reporting the problem with enumitem.st
 
 *******
  2007/03/05 V1.7a (MDS) changes:
@@ -122,7 +118,6 @@
 
  2) "depreciated" -> "deprecated". Thanks to Virgilio Rodriguez for
     suggesting this change.
-
 
 
 *******
@@ -248,14 +243,12 @@
 28) Changed \topfraction and \dbltopfraction from 1.0 to 0.9. Thanks to
     Donald Arseneau for suggesting this change.
 
-
 *******
  2005/09/13 V1.6c (MDS) changes:
 
  1) Changed endfigure/endfloat definitions so as not to cause problems with
     preview-LaTeX and other packages. Thanks to Stephan Heuel and David
     Kastrup for reporting this problem.
-
 
 
 *******
@@ -303,7 +296,6 @@
     entered and formatted as under conference mode so that author
     affiliations and contact information can be easily seen on the cover
     page. Thanks to Eric Benedict for suggesting this feature.
-
 
 
 *******
@@ -583,10 +575,8 @@
     at trigger.
 
 
-
 *******
  2001/07/26 V1.5 (MDS) changes:
-
 
  1) Fixed \and within \author bug: (! Misplaced \crcr. \endtabular ->\crcr)
     Thanks to Rainer Dorsch for discovering and reporting that \and 
@@ -639,10 +629,8 @@
     the ability to handle graphics and providing some prototype code.
 
 
-
 *******
  2001/03/15 V1.4 (MDS) changes:
-
 
  1) New "draftcls" and "final" options have been added.
     Thanks to Dragan Cvetkovic for suggesting an option like draftcls.
@@ -663,11 +651,9 @@
     using the conference mode.
 
 
-
 *******
  2001/01/18 V1.3 
  Michael Shell (MDS) made extensive changes and additions:
-
 
  BUGS FIXED (and many others too numerous to mention!):
  1) Fixed improper alignment with itemized, enumerated and
@@ -728,9 +714,7 @@
 11) \thebibliography and \biography now put entries into
     the table of contents for you.
 
-
 *******
-
 
 
 
@@ -743,8 +727,6 @@
 
  Permission to redistribute granted as of December 2000.
  *******
-
-
 
 
 
@@ -766,8 +748,6 @@
 
 
 
-
-
 *******
 
  30-August-1993 original LaTeX 2.09 version (IEEEtran.sty),
@@ -778,6 +758,5 @@
  balemi@aut.ee.ethz.ch
 
 *******
-
 
 

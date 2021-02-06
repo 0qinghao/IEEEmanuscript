@@ -1,0 +1,105 @@
+PWD d:/TIP/IEEETransactions_LaTeX/IEEEtran
+INPUT d:/Program Files/texlive/2020/texmf.cnf
+INPUT d:/Program Files/texlive/2020/texmf-dist/web2c/texmf.cnf
+INPUT d:/Program Files/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT d:/TIP/IEEETransactions_LaTeX/IEEEtran/bare_jrnl.tex
+OUTPUT d:/TIP/IEEETransactions_LaTeX/IEEEtran/bare_jrnl.log
+INPUT d:/TIP/IEEETransactions_LaTeX/IEEEtran/IEEEtran.cls
+INPUT d:/TIP/IEEETransactions_LaTeX/IEEEtran/IEEEtran.cls
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT d:/TIP/IEEETransactions_LaTeX/IEEEtran/bare_jrnl.aux
+INPUT d:/TIP/IEEETransactions_LaTeX/IEEEtran/bare_jrnl.aux
+OUTPUT d:/TIP/IEEETransactions_LaTeX/IEEEtran/bare_jrnl.aux
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmrc7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT d:/TIP/IEEETransactions_LaTeX/IEEEtran/bare_jrnl.bbl
+INPUT d:/TIP/IEEETransactions_LaTeX/IEEEtran/bare_jrnl.bbl
+OUTPUT d:/TIP/IEEETransactions_LaTeX/IEEEtran/bare_jrnl.pdf
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT d:/Program Files/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmbi7t.vf
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmbi8r.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmrc7t.vf
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT d:/TIP/IEEETransactions_LaTeX/IEEEtran/bare_jrnl.aux
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/type1/urw/times/utmri8a.pfb

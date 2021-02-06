@@ -62,7 +62,6 @@
 % 1.12 (2007/01/11) Initial release
 
 
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% DEFAULTS FOR THE CONTROLS OF THE BST STYLE %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -87,16 +86,13 @@
 % IEEEtran.cls V1.6 and later does provide this command.
 
 
-
 % #0 turns off the display of the number for articles.
 % #1 enables
 FUNCTION {default.is.use.number.for.article} { #1 }
 
-
 % #0 turns off the display of the paper and type fields in @inproceedings.
 % #1 enables
 FUNCTION {default.is.use.paper} { #1 }
-
 
 % #0 turns off the forced use of "et al."
 % #1 enables
@@ -114,7 +110,6 @@ FUNCTION {default.max.num.names.before.forced.et.al} { #10 }
 % Must be less than or equal to max.num.names.before.forced.et.al
 FUNCTION {default.num.names.shown.with.forced.et.al} { #1 }
 
-
 % #0 turns off the alternate interword spacing for entries with URLs.
 % #1 enables
 FUNCTION {default.is.use.alt.interword.spacing} { #1 }
@@ -129,24 +124,19 @@ FUNCTION {default.is.use.alt.interword.spacing} { #1 }
 % that via the IEEEtranBSTCTL entry type.
 FUNCTION {default.ALTinterwordstretchfactor} { "4" }
 
-
 % #0 turns off the "dashification" of repeated (i.e., identical to those
 % of the previous entry) names. IEEE normally does this.
 % #1 enables
 FUNCTION {default.is.dash.repeated.names} { #1 }
 
-
 % The default name format control string.
 FUNCTION {default.name.format.string}{ "{f.~}{vv~}{ll}{, jj}" }
-
 
 % The default LaTeX font command for the names.
 FUNCTION {default.name.latex.cmd}{ "" }
 
-
 % The default URL prefix.
 FUNCTION {default.name.url.prefix}{ "[Online]. Available:" }
-
 
 % Other controls that cannot be accessed via IEEEtranBSTCTL entry type.
 
@@ -154,7 +144,6 @@ FUNCTION {default.name.url.prefix}{ "[Online]. Available:" }
 % operate more quietly.
 % #1 enables
 FUNCTION {is.print.banners.to.terminal} { #1 }
-
 
 
 
@@ -195,7 +184,6 @@ FUNCTION {completed.message}
 
 
 
-
 %%%%%%%%%%%%%%%%%%%%%%
 %% STRING CONSTANTS %%
 %%%%%%%%%%%%%%%%%%%%%%
@@ -227,7 +215,6 @@ FUNCTION {bbl.nd}{ "nd" }
 FUNCTION {bbl.rd}{ "rd" }
 FUNCTION {bbl.th}{ "th" }
 
-
 % This is the LaTeX spacer that is used when a larger than normal space
 % is called for (such as just before the address:publisher).
 FUNCTION {large.space} { "\hskip 1em plus 0.5em minus 0.4em\relax " }
@@ -238,7 +225,6 @@ FUNCTION {large.space} { "\hskip 1em plus 0.5em minus 0.4em\relax " }
 % the baseline. However, IEEE now uses a thinner, above baseline,
 % six dash long sequence.
 FUNCTION {repeated.name.dashes} { "------" }
-
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -257,7 +243,6 @@ MACRO {sep} {"Sep."}
 MACRO {oct} {"Oct."}
 MACRO {nov} {"Nov."}
 MACRO {dec} {"Dec."}
-
 
 
 %%%%%%%%%%%%%%%%%%
@@ -315,7 +300,6 @@ ENTRY
 
 
 
-
 %%%%%%%%%%%%%%%%%%%%%%%
 %% INTEGER VARIABLES %%
 %%%%%%%%%%%%%%%%%%%%%%%
@@ -341,7 +325,6 @@ INTEGERS { is.use.number.for.article
            is.use.alt.interword.spacing
            is.dash.repeated.names}
 
-
 %%%%%%%%%%%%%%%%%%%%%%
 %% STRING VARIABLES %%
 %%%%%%%%%%%%%%%%%%%%%%
@@ -355,7 +338,6 @@ STRINGS { bibinfo
           name.format.string
           name.latex.cmd
           name.url.prefix}
-
 
 
 
@@ -376,7 +358,6 @@ FUNCTION {initialize.controls}
   default.name.latex.cmd 'name.latex.cmd :=
   default.name.url.prefix 'name.url.prefix :=
 }
-
 
 % This IEEEtran.bst features a very powerful and flexible mechanism for
 % controlling the capitalization, punctuation, spacing, quotation, and
@@ -509,7 +490,6 @@ FUNCTION {this.to.prev.status}
   this.status.nline 'prev.status.nline :=
 }
 
-
 FUNCTION {not}
 {   { #0 }
     { #1 }
@@ -528,7 +508,6 @@ FUNCTION {or}
   if$
 }
 
-
 % convert the strings "yes" or "no" to #1 or #0 respectively
 FUNCTION {yes.no.to.int}
 { "l" change.case$ duplicate$
@@ -544,7 +523,6 @@ FUNCTION {yes.no.to.int}
     }
   if$
 }
-
 
 % pushes true if the single char string on the stack is in the
 % range of "0" to "9"
@@ -595,7 +573,6 @@ FUNCTION {string.to.integer}
 pop$
 numnames
 }
-
 
 
 
@@ -675,7 +652,6 @@ write$
 newline$
 }
 
-
 FUNCTION {is.last.char.not.punct}
 { duplicate$
    "}" * add.period$
@@ -746,7 +722,6 @@ FUNCTION {get.bbl.editor}
 
 FUNCTION {space.word}{ " " swap$ * " " * }
 
-
 % Field Conditioners, Converters, Checkers and External Interfaces
 
 FUNCTION {empty.field.to.null.string}
@@ -771,7 +746,6 @@ FUNCTION {empty.entry.warn}
     'skip$
   if$
 }
-
 
 % The bibinfo system provides a way for the electronic parsing/acquisition
 % of a bibliography's contents as is done by ReVTeX. For example, a field
@@ -810,7 +784,6 @@ FUNCTION {bibinfo.warn}
     }
   if$
 }
-
 
 % IEEE separates large numbers with more than 4 digits into groups of
 % three. IEEE uses a small space to separate these number groups. 
@@ -884,7 +857,6 @@ FUNCTION {n.dashify}
     }
   while$
 }
-
 
 % This function detects entries with names that are identical to that of
 % the previous entry and replaces the repeated names with dashes (if the
@@ -993,7 +965,6 @@ FUNCTION {word.to.num}
   if$
 }
 
-
 % Converts the string on the top of the stack to numerical
 % ordinal (e.g., "11th") form.
 FUNCTION {convert.edition}
@@ -1014,7 +985,6 @@ FUNCTION {convert.edition}
     }
   if$
 }
-
 
 
 
@@ -1189,7 +1159,6 @@ FUNCTION {if.url.std.interword.spacing}
 
 
 
-
 %%%%%%%%%%%%%%%%%%%%%
 %% FORMAT HANDLERS %%
 %%%%%%%%%%%%%%%%%%%%%
@@ -1245,7 +1214,6 @@ FUNCTION {format.address.org.or.pub.date}
     }
   if$
 }
-
 
 FUNCTION {format.names}
 { 'bibinfo :=
@@ -1303,7 +1271,6 @@ FUNCTION {format.names}
 
 
 
-
 %% Higher Level Formats
 
 %% addresses/locations
@@ -1316,7 +1283,6 @@ FUNCTION {format.address}
     }
   if$
 }
-
 
 
 %% author/editor names
@@ -1332,7 +1298,6 @@ FUNCTION {format.editors}
     }
   if$
 }
-
 
 
 %% date
@@ -1390,7 +1355,6 @@ FUNCTION {format.date.electronic}
     }
   if$
 }
-
 
 
 %% edition/title
@@ -1534,7 +1498,6 @@ FUNCTION {format.book.title}
 }
 
 
-
 %% journal
 
 FUNCTION {format.journal}
@@ -1549,7 +1512,6 @@ FUNCTION {format.journal}
 }
 
 
-
 %% how published
 
 FUNCTION {format.howpublished}
@@ -1560,7 +1522,6 @@ FUNCTION {format.howpublished}
     }
   if$
 }
-
 
 
 %% institutions/organization/publishers/school
@@ -1600,7 +1561,6 @@ FUNCTION {format.school}
     }
   if$
 }
-
 
 
 %% volume/number/series/chapter/pages
@@ -1662,7 +1622,6 @@ FUNCTION {format.series}
  if$
 }
 
-
 FUNCTION {format.chapter}
 { chapter empty$
     { "" }
@@ -1681,7 +1640,6 @@ FUNCTION {format.chapter}
     }
   if$
 }
-
 
 % The intended use of format.paper is for paper numbers of inproceedings.
 % The paper type can be overridden via the type field.
@@ -1716,7 +1674,6 @@ FUNCTION {format.paper}
    if$
 }
 
-
 FUNCTION {format.pages}
 { pages duplicate$ empty$ 'skip$
     { this.to.prev.status
@@ -1739,7 +1696,6 @@ FUNCTION {format.pages}
 }
 
 
-
 %% technical report number
 
 FUNCTION {format.tech.report.number}
@@ -1759,7 +1715,6 @@ FUNCTION {format.tech.report.number}
     { tie.or.space.prefix * * }
   if$
 }
-
 
 
 %% note
@@ -1785,7 +1740,6 @@ FUNCTION {format.note}
     }
   if$
 }
-
 
 
 %% patent
@@ -1875,7 +1829,6 @@ FUNCTION {format.patent.nationality.type.number}
 }
 
 
-
 %% standard
 
 FUNCTION {format.organization.institution.standard.type.number}
@@ -1919,7 +1872,6 @@ FUNCTION {format.revision}
   if$
 }
 
-
 %% thesis
 
 FUNCTION {format.master.thesis.type}
@@ -1951,7 +1903,6 @@ cap.status.std
 }
 
 
-
 %% URL
 
 FUNCTION {format.url}
@@ -1973,11 +1924,9 @@ FUNCTION {format.url}
 
 
 
-
 %%%%%%%%%%%%%%%%%%%%
 %% ENTRY HANDLERS %%
 %%%%%%%%%%%%%%%%%%%%
-
 
 % Note: In many journals, IEEE (or the authors) tend not to show the number
 % for articles, so the display of the number is controlled here by the
@@ -2303,7 +2252,6 @@ FUNCTION {unpublished}
   if.url.std.interword.spacing
 }
 
-
 % The special entry type which provides the user interface to the
 % BST controls
 FUNCTION {IEEEtranBSTCTL}
@@ -2401,7 +2349,6 @@ FUNCTION {IEEEtranBSTCTL}
     }
   if$
 
-
   num.names.shown.with.forced.et.al max.num.names.before.forced.et.al >
     { "CTLnames_show_etal cannot be greater than CTLmax_names_forced_etal in " cite$ * warning$ 
       max.num.names.before.forced.et.al 'num.names.shown.with.forced.et.al :=
@@ -2409,7 +2356,6 @@ FUNCTION {IEEEtranBSTCTL}
     { skip$ }
   if$
 }
-
 
 %%%%%%%%%%%%%%%%%%%
 %% ENTRY ALIASES %%
@@ -2422,7 +2368,6 @@ FUNCTION {www}{electronic}
 FUNCTION {default.type}{misc}
 
 
-
 %%%%%%%%%%%%%%%%%%
 %% MAIN PROGRAM %%
 %%%%%%%%%%%%%%%%%%
@@ -2432,7 +2377,6 @@ READ
 EXECUTE {initialize.controls}
 EXECUTE {initialize.status.constants}
 EXECUTE {banner.message}
-
 
 
 % BEGIN sort code based on plainnat.bst
@@ -2580,7 +2524,6 @@ FUNCTION {author.organization.institution.sort}
 
 
 
-
 STRINGS { last.label next.extra }
 
 INTEGERS { last.extra.num }
@@ -2725,7 +2668,6 @@ FUNCTION {calc.label}
 }
 
 
-
 FUNCTION {presort}
 { type$ "ieeetranbstctl" =
     { key empty$
@@ -2772,7 +2714,6 @@ FUNCTION {presort}
   #1 entry.max$ substring$
   'sort.key$ :=
 }
-
 
 FUNCTION {initialize.longest.label}
 {  "" 'longest.label :=
@@ -2826,7 +2767,6 @@ FUNCTION {bib.sort.order}
 
 
 
-
 ITERATE {presort}
 
 SORT
@@ -2845,6 +2785,5 @@ ITERATE {call.type$}
 EXECUTE {end.bib}
 
 EXECUTE{completed.message}
-
 
 %% That's all folks, mds.

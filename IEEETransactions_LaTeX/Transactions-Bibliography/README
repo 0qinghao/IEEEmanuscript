@@ -1,7 +1,6 @@
 
 January 11, 2007
 
-
 IEEEtran.bst is the official BibTeX style for authors of the Institute of
 Electrical and Electronics Engineers (IEEE) Transactions journals and
 conferences.
@@ -32,7 +31,6 @@ For helpful tips, answers to frequently asked questions and other support,
 visit the IEEEtran home page at my website:
 
 http://www.michaelshell.org/tex/ieeetran/
-
 
 Enjoy!
 
@@ -77,7 +75,6 @@ Version 1.12 (2007/01/11) changes:
 
 11. New IEEEtranSA.bst, IEEEtranN.bst, and IEEEtranSN.bst variants for
     alphanumeric citation tags and natbib compatibility.
-
 
 ********************************** Files **********************************
 

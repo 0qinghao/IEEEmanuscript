@@ -1,7 +1,6 @@
 
 August 26, 2015
 
-
 IEEEtran is a LaTeX class for authors of the Institute of Electrical and
 Electronics Engineers (IEEE) transactions journals and conferences.
 The latest version of the IEEEtran package can be found at CTAN:
@@ -44,7 +43,6 @@ The most notable changes in this release include:
  6) Added the \IEEEnoauxwrite command.
     Thanks to Sudarshan Mukherjee for suggesting this feature.
 
-
 NOTE: Take care not to confuse the "comsoc" and "compsoc" class
 options/modes as they are very different:
 
@@ -60,12 +58,10 @@ or the commercial MathTime font (e.g., mtpro2.sty) is acceptable.
 See Section II-D (2.4) "Class Options - comsoc, compsoc, transmag" of
 the IEEEtran HOWTO for more details.
 
-
 Best wishes for all your publication endeavors,
 
 Michael Shell
 http://www.michaelshell.org/
-
 
 ********************************** Files **********************************
 

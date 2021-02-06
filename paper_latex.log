@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.12.24)  5 FEB 2021 16:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.12.24)  6 FEB 2021 20:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -339,22 +339,22 @@ File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
 )) (d:/TIP/paper_latex.aux)
 \openout1 = `paper_latex.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
 
 -- Lines per column: 58 (exact).
 (d:/Program Files/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -377,7 +377,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \AtBeginShipoutBox=\box52
-Package hyperref Info: Link coloring OFF on input line 38.
+Package hyperref Info: Link coloring OFF on input line 44.
  (d:/Program Files/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (d:/Program Files/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
@@ -387,85 +387,133 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count290
 )
-LaTeX Info: Redefining \ref on input line 38.
-LaTeX Info: Redefining \pageref on input line 38.
-LaTeX Info: Redefining \nameref on input line 38.
+LaTeX Info: Redefining \ref on input line 44.
+LaTeX Info: Redefining \pageref on input line 44.
+LaTeX Info: Redefining \nameref on input line 44.
  (d:/TIP/paper_latex.out) (d:/TIP/paper_latex.out)
 \@outlinefile=\write3
 \openout3 = `paper_latex.out'.
 
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 120.
-LaTeX Font Info:    Trying to load font information for U+mvs on input line 120.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 125.
+LaTeX Font Info:    Trying to load font information for U+mvs on input line 125.
  (d:/Program Files/texlive/2020/texmf-dist/tex/latex/marvosym/umvs.fd) [1{d:/Program Files/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-<pictures/HEVCprediction.png, id=96, 669.34065pt x 465.4188pt>
-File: pictures/HEVCprediction.png Graphic file (type png)
-<use pictures/HEVCprediction.png>
-Package pdftex.def Info: pictures/HEVCprediction.png  used on input line 185.
-(pdftex.def)             Requested size: 398.33858pt x 276.98798pt.
-<pictures/residual.jpg, id=97, 792.9625pt x 826.08624pt>
+
+pdfTeX warning: pdflatex.exe (file d:/TIP/pictures/HEVCprediction.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<pictures/HEVCprediction.pdf, id=96, 665.48625pt x 467.7475pt>
+File: pictures/HEVCprediction.pdf Graphic file (type pdf)
+<use pictures/HEVCprediction.pdf>
+Package pdftex.def Info: pictures/HEVCprediction.pdf  used on input line 187.
+(pdftex.def)             Requested size: 398.33858pt x 279.97975pt.
+<pictures/residual.jpg, id=97, 396.48125pt x 413.04312pt>
 File: pictures/residual.jpg Graphic file (type jpg)
 <use pictures/residual.jpg>
-Package pdftex.def Info: pictures/residual.jpg  used on input line 197.
-(pdftex.def)             Requested size: 250.38434pt x 260.83618pt.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 198.
- (d:/Program Files/texlive/2020/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+Package pdftex.def Info: pictures/residual.jpg  used on input line 198.
+(pdftex.def)             Requested size: 250.38434pt x 260.84879pt.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 199.
+(d:/Program Files/texlive/2020/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) [2]
-<pictures/l-shaped block illustration.png, id=140, 371.58826pt x 205.9695pt>
-File: pictures/l-shaped block illustration.png Graphic file (type png)
-<use pictures/l-shaped block illustration.png>
-Package pdftex.def Info: pictures/l-shaped block illustration.png  used on input line 221.
-(pdftex.def)             Requested size: 170.71652pt x 94.62767pt.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Underfull \vbox (badness 4886) has occurred while \output is active []
 
- [3 <d:/TIP/pictures/HEVCprediction.png> <d:/TIP/pictures/residual.jpg> <d:/TIP/pictures/l-shaped block illustration.png>]
-<pictures/Lprediction.png, id=150, 305.82256pt x 219.9417pt>
-File: pictures/Lprediction.png Graphic file (type png)
-<use pictures/Lprediction.png>
-Package pdftex.def Info: pictures/Lprediction.png  used on input line 244.
-(pdftex.def)             Requested size: 398.33858pt x 286.48462pt.
+
+pdfTeX warning: pdflatex.exe (file d:/TIP/pictures/l-shaped block illustration a.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<pictures/l-shaped block illustration a.pdf, id=139, 171.13937pt x 171.64125pt>
+File: pictures/l-shaped block illustration a.pdf Graphic file (type pdf)
+<use pictures/l-shaped block illustration a.pdf>
+Package pdftex.def Info: pictures/l-shaped block illustration a.pdf  used on input line 224.
+(pdftex.def)             Requested size: 85.35826pt x 85.61087pt.
+
+
+pdfTeX warning: pdflatex.exe (file d:/TIP/pictures/l-shaped block illustration b.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<pictures/l-shaped block illustration b.pdf, id=140, 172.645pt x 172.645pt>
+File: pictures/l-shaped block illustration b.pdf Graphic file (type pdf)
+<use pictures/l-shaped block illustration b.pdf>
+Package pdftex.def Info: pictures/l-shaped block illustration b.pdf  used on input line 227.
+(pdftex.def)             Requested size: 85.35826pt x 85.35811pt.
+[3 <d:/TIP/pictures/HEVCprediction.pdf> <d:/TIP/pictures/residual.jpg>]
+
+pdfTeX warning: pdflatex.exe (file d:/TIP/pictures/Lprediction.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<pictures/Lprediction.pdf, id=160, 323.2075pt x 219.31938pt>
+File: pictures/Lprediction.pdf Graphic file (type pdf)
+<use pictures/Lprediction.pdf>
+Package pdftex.def Info: pictures/Lprediction.pdf  used on input line 250.
+(pdftex.def)             Requested size: 398.33858pt x 270.31674pt.
+[4 <d:/TIP/pictures/l-shaped block illustration a.pdf> <d:/TIP/pictures/l-shaped block illustration b.pdf
+
+pdfTeX warning: pdflatex.exe (file d:/TIP/pictures/l-shaped block illustration b.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 270.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 296.
+
+
+
+pdfTeX warning: pdflatex.exe (file d:/TIP/pictures/partitioning process.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<pictures/partitioning process.pdf, id=201, 607.39925pt x 280.98776pt>
+File: pictures/partitioning process.pdf Graphic file (type pdf)
+<use pictures/partitioning process.pdf>
+Package pdftex.def Info: pictures/partitioning process.pdf  used on input line 329.
+(pdftex.def)             Requested size: 398.33858pt x 184.2777pt.
+[5 <d:/TIP/pictures/Lprediction.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4]
+ [6 <d:/TIP/pictures/partitioning process.pdf>]
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 267.
+pdfTeX warning: pdflatex.exe (file d:/TIP/pictures/flowchart.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<pictures/flowchart.pdf, id=260, 519.9425pt x 310.15875pt>
+File: pictures/flowchart.pdf Graphic file (type pdf)
+<use pictures/flowchart.pdf>
+Package pdftex.def Info: pictures/flowchart.pdf  used on input line 342.
+(pdftex.def)             Requested size: 512.1496pt x 305.51053pt.
+[7]
+
+pdfTeX warning: pdflatex.exe (file d:/TIP/pictures/eleven cases.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<pictures/eleven cases.pdf, id=274, 960.08687pt x 391.96437pt>
+File: pictures/eleven cases.pdf Graphic file (type pdf)
+<use pictures/eleven cases.pdf>
+Package pdftex.def Info: pictures/eleven cases.pdf  used on input line 366.
+(pdftex.def)             Requested size: 250.38434pt x 102.21933pt.
 
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 295.
+pdfTeX warning: pdflatex.exe (file d:/TIP/pictures/special.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<pictures/special.pdf, id=276, 356.33125pt x 185.19188pt>
+File: pictures/special.pdf Graphic file (type pdf)
+<use pictures/special.pdf>
+Package pdftex.def Info: pictures/special.pdf  used on input line 375.
+(pdftex.def)             Requested size: 250.38434pt x 130.12793pt.
+[8 <d:/TIP/pictures/flowchart.pdf> <d:/TIP/pictures/eleven cases.pdf
 
-<pictures/partitioning process.png, id=180, 1763.8698pt x 819.06pt>
-File: pictures/partitioning process.png Graphic file (type png)
-<use pictures/partitioning process.png>
-Package pdftex.def Info: pictures/partitioning process.png  used on input line 329.
-(pdftex.def)             Requested size: 398.33858pt x 184.96793pt.
-[5 <d:/TIP/pictures/Lprediction.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+pdfTeX warning: pdflatex.exe (file d:/TIP/pictures/eleven cases.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <d:/TIP/pictures/special.pdf
 
- [6 <d:/TIP/pictures/partitioning process.png>]
-<pictures/flowchart.png, id=198, 517.33275pt x 310.15875pt>
-File: pictures/flowchart.png Graphic file (type png)
-<use pictures/flowchart.png>
-Package pdftex.def Info: pictures/flowchart.png  used on input line 343.
-(pdftex.def)             Requested size: 512.1496pt x 307.0581pt.
- [7]
-<pictures/eleven cases.png, id=212, 837.72975pt x 369.7815pt>
-File: pictures/eleven cases.png Graphic file (type png)
-<use pictures/eleven cases.png>
-Package pdftex.def Info: pictures/eleven cases.png  used on input line 367.
-(pdftex.def)             Requested size: 250.38434pt x 110.51776pt.
-<pictures/special.png, id=214, 347.01645pt x 185.9748pt>
-File: pictures/special.png Graphic file (type png)
-<use pictures/special.png>
-Package pdftex.def Info: pictures/special.png  used on input line 377.
-(pdftex.def)             Requested size: 250.38434pt x 134.1912pt.
- [8 <d:/TIP/pictures/flowchart.png> <d:/TIP/pictures/eleven cases.png> <d:/TIP/pictures/special.png>]
+pdfTeX warning: pdflatex.exe (file d:/TIP/pictures/special.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 386.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 386.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 386.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 386.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 386.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
             Default family used instead on input line 388.
@@ -480,89 +528,67 @@ LaTeX Info: Symbol \textrightarrow not provided by
             Default family used instead on input line 388.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 388.
+            Default family used instead on input line 392.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 390.
+            Default family used instead on input line 392.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 390.
+            Default family used instead on input line 392.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 390.
+            Default family used instead on input line 392.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 390.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 394.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 394.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 394.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 394.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 394.
-<pictures/optimization.png, id=223, 173.32755pt x 173.32755pt>
-File: pictures/optimization.png Graphic file (type png)
-<use pictures/optimization.png>
-Package pdftex.def Info: pictures/optimization.png  used on input line 414.
-(pdftex.def)             Requested size: 113.81102pt x 113.81467pt.
-<pictures/RaceHorseshevc.jpg, id=226, 581.7735pt x 291.489pt>
+            Default family used instead on input line 392.
+
+
+pdfTeX warning: pdflatex.exe (file d:/TIP/pictures/optimization.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<pictures/optimization.pdf, id=321, 172.645pt x 172.645pt>
+File: pictures/optimization.pdf Graphic file (type pdf)
+<use pictures/optimization.pdf>
+Package pdftex.def Info: pictures/optimization.pdf  used on input line 411.
+(pdftex.def)             Requested size: 113.81102pt x 113.81169pt.
+<pictures/RaceHorseshevc.jpg, id=324, 581.7735pt x 291.489pt>
 File: pictures/RaceHorseshevc.jpg Graphic file (type jpg)
 <use pictures/RaceHorseshevc.jpg>
-Package pdftex.def Info: pictures/RaceHorseshevc.jpg  used on input line 477.
+Package pdftex.def Info: pictures/RaceHorseshevc.jpg  used on input line 468.
 (pdftex.def)             Requested size: 312.9803pt x 156.81905pt.
-
-Overfull \hbox (54.9803pt too wide) in paragraph at lines 477--477
- [][] 
- []
-
-<pictures/RaceHorsesnew.jpg, id=227, 874.467pt x 437.83575pt>
+<pictures/RaceHorsesnew.jpg, id=325, 874.467pt x 437.83575pt>
 File: pictures/RaceHorsesnew.jpg Graphic file (type jpg)
 <use pictures/RaceHorsesnew.jpg>
-Package pdftex.def Info: pictures/RaceHorsesnew.jpg  used on input line 484.
+Package pdftex.def Info: pictures/RaceHorsesnew.jpg  used on input line 471.
 (pdftex.def)             Requested size: 312.9803pt x 156.70547pt.
-
-Overfull \hbox (54.9803pt too wide) in paragraph at lines 484--484
- [][] 
- []
-
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 498.
+            Default family used instead on input line 480.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 498.
-[9] [10 <d:/TIP/pictures/optimization.png>] [11 <d:/TIP/pictures/RaceHorseshevc.jpg> <d:/TIP/pictures/RaceHorsesnew.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 594.
+            Default family used instead on input line 480.
+[9] [10 <d:/TIP/pictures/optimization.pdf>] (d:/TIP/paper_latex.bbl [11 <d:/TIP/pictures/RaceHorseshevc.jpg> <d:/TIP/pictures/RaceHorsesnew.jpg>])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 567.
  [12]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 594.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 567.
  (d:/TIP/paper_latex.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 594.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 594.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 567.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 567.
 Package rerunfilecheck Info: File `paper_latex.out' has not changed.
 (rerunfilecheck)             Checksum: 93A2828D3AD2AD9CFDE98A174C377896;1341.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 594.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 567.
  ) 
 Here is how much of TeX's memory you used:
- 8049 strings out of 480608
- 133341 string characters out of 5900631
- 592334 words of memory out of 5000000
- 23702 multiletter control sequences out of 15000+600000
- 573792 words of font info for 101 fonts, out of 8000000 for 9000
+ 8052 strings out of 480608
+ 133648 string characters out of 5900631
+ 592263 words of memory out of 5000000
+ 23698 multiletter control sequences out of 15000+600000
+ 574928 words of font info for 102 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 36i,15n,36p,3390b,445s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,15n,36p,3378b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/Program Files/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{d:/Program Files/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}<d:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><d:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><d:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb><d:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><d:/Program Files/texlive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><d:/Program Files/texlive/2020/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><d:/Program Files/texlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><d:/Program Files/texlive/2020/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on d:/TIP/paper_latex.pdf (12 pages, 2985349 bytes).
+Output written on d:/TIP/paper_latex.pdf (12 pages, 1119586 bytes).
 PDF statistics:
- 340 PDF objects out of 1000 (max. 8388607)
- 298 compressed objects within 3 object streams
- 82 named destinations out of 1000 (max. 500000)
- 192 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 446 PDF objects out of 1000 (max. 8388607)
+ 387 compressed objects within 4 object streams
+ 84 named destinations out of 1000 (max. 500000)
+ 197 words of extra memory for PDF output out of 10000 (max. 10000000)
 
