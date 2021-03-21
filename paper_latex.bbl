@@ -39,6 +39,16 @@ J.~{Ohm}, G.~J. {Sullivan}, H.~{Schwarz}, T.~K. {Tan}, and T.~{Wiegand},
   High Efficiency Video Coding (HEVC)},'' \emph{IEEE Transactions on Circuits
   and Systems for Video Technology}, vol.~22, no.~12, pp. 1669--1684, 2012.
 
+\bibitem{a}
+B.~{Bross}, J.~{Chen}, and S.~{Liu}, ``{Versatile Video Coding Editorial
+  Refinements on Draft 10},'' Joint Video Experts Team (JVET), Doc. JVET-T2001,
+  Nov. 2020.
+
+\bibitem{b}
+J.~{Chen}, Y.~{Y e}, and S.-H. {Kim}, ``Algorithm description for versatile
+  video coding and test model 11 (vtm 11),'' Joint Video Experts Team (JVET),
+  Doc. JVET-T2002, Jan. 2021.
+
 \bibitem{04}
 Z.~{Pan}, H.~{Shen}, Y.~{Lu}, S.~{Li}, and N.~{Yu}, ``{A Low-Complexity Screen
   Compression Scheme for Interactive Screen Sharing},'' \emph{IEEE Transactions
@@ -67,6 +77,28 @@ K.~{Fan}, R.~{Wang}, G.~{Li}, and W.~{Gao}, ``{Efficient Prediction Methods
   Transactions on Circuits and Systems for Video Technology}, vol.~29, no.~12,
   pp. 3716--3728, 2019.
 
+\bibitem{d}
+{Yung-Lyul Lee}, {Ki-Hun Han}, and G.~J. {Sullivan}, ``{Improved lossless intra
+  coding for H.264/MPEG-4 AVC},'' \emph{IEEE Transactions on Image Processing},
+  vol.~15, no.~9, pp. 2610--2615, 2006.
+
+\bibitem{e}
+D.~{Flynn}, D.~{Marpe}, M.~{Naccari}, T.~{Nguyen}, C.~{Rosewarne},
+  K.~{Sharman}, J.~{Sole}, and J.~{Xu}, ``{Overview of the Range Extensions for
+  the HEVC Standard: Tools, Profiles, and Performance},'' \emph{IEEE
+  Transactions on Circuits and Systems for Video Technology}, vol.~26, no.~1,
+  pp. 4--19, 2016.
+
+\bibitem{h}
+K.~{Kim}, G.~{Jeon}, and J.~{Jeong}, ``{Improvement of Implicit Residual DPCM
+  for HEVC},'' in \emph{2014 Tenth International Conference on Signal-Image
+  Technology and Internet-Based Systems}, 2014, pp. 652--658.
+
+\bibitem{i}
+G.~{Jeon}, K.~{Kim}, and J.~{Jeong}, ``{Improved Residual DPCM for HEVC
+  Lossless Coding},'' in \emph{2014 27th SIBGRAPI Conference on Graphics,
+  Patterns and Images}, 2014, pp. 95--102.
+
 \bibitem{09}
 M.~{Zhou}, W.~{Gao}, M.~{Jiang}, and H.~{Yu}, ``{HEVC Lossless Coding and
   Improvements},'' \emph{IEEE Transactions on Circuits and Systems for Video
@@ -90,9 +122,9 @@ V.~{Sanchez}, F.~{Aulí-Llinàs}, J.~{Bartrina-Rapesta}, and
   Information Processing (GlobalSIP)}, 2014, pp. 297--301.
 
 \bibitem{13}
-V.~{Sanchez}, F.~{Aulí-Llinàs}, and J.~{Serra-Sagristà}, ``Piecewise mapping
-  in hevc lossless intra-prediction coding,'' \emph{IEEE Transactions on Image
-  Processing}, vol.~25, no.~9, pp. 4004--4017, 2016.
+V.~{Sanchez}, F.~{Aulí-Llinàs}, and J.~{Serra-Sagristà}, ``{Piecewise
+  Mapping in HEVC Lossless Intra-Prediction Coding},'' \emph{IEEE Transactions
+  on Image Processing}, vol.~25, no.~9, pp. 4004--4017, 2016.
 
 \bibitem{14}
 X.~{Zhang}, C.~{Gisquet}, E.~{François}, F.~{Zou}, and O.~C. {Au}, ``{Chroma
@@ -182,13 +214,6 @@ M.~J. {Weinberger}, G.~{Seroussi}, and G.~{Sapiro}, ``{The LOCO-I lossless
   image compression algorithm: principles and standardization into JPEG-LS},''
   \emph{IEEE Transactions on Image Processing}, vol.~9, no.~8, pp. 1309--1324,
   2000.
-
-\bibitem{30}
-\BIBentryALTinterwordspacing
-{ITU-T Video Coding Experts Group and the ISO/IEC Moving Picture Experts
-  Group}, ``{HM15.0 software}.'' [Online]. Available:
-  \url{https://vcgit.hhi.fraunhofer.de/jct-vc/HM}
-\BIBentrySTDinterwordspacing
 
 \bibitem{31}
 F.~{Bossen}, ``{Common HM Test Conditions and Software Reference
